@@ -11,6 +11,8 @@
 
 **6.APORTACIONES**
 
+![tabla](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/TABLA.png)
+
 ERROR
 **7.Manual de Usuario**
 
