@@ -5,11 +5,17 @@
 
 **3.DIAGRAMAS**
 
+![CIRCUITO4](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/circuitoL4.png)
+
 **4.LISTA DE COMPONENTES**
+
+![COMPONENTES](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/componentes4.png)
 
 **5.EXPLICACIÓN**
 
+
 **6.APORTACIONES**
+
 Medidas del voltaje VA y la corriente  IX  conectada a las dos fuentes  de voltaje 20 (V1)   y 12 V (V2)
 
 ![circuito1](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/circuito%20completo.png)
