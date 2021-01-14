@@ -10,6 +10,18 @@
 **5.EXPLICACIÓN**
 
 **6.APORTACIONES**
+Medidas del voltaje VA y la corriente  IX  conectada a las dos fuentes  de voltaje 20 (V1)   y 12 V (V2)
+
+![circuito1](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/circuito%20completo.png)
+
+Medidas del voltaje VA y la corriente  IX  conectada a la fuente de  voltaje 12 V (V2)
+
+![circuito2](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/circuito%20con%20fuente%2012v.png)
+  
+Medidas del voltaje VA y la corriente  IX  conectada a la fuente de  voltaje 20 (V1) 
+
+![circuito3](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/circuito%20con%20fuente%2020v.png)
+
 
 ![tabla](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/TABLA.png)
 
