@@ -15,6 +15,7 @@ ERROR
 **7.Manual de Usuario**
 
 **8. Prerrequisitos**
+
 -Al instante de generar la simulación tener en cuenta la unidad de media para el uso del amperímetro y el voltaje a utilizar .
 -Verificar que el circuito se encuentre bien conectado caso contrario se generara datos erróneos.
 
