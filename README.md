@@ -1,1 +1,1 @@
-# Teorema-de-superposici-n-
+# Teorema-de-superposición 
