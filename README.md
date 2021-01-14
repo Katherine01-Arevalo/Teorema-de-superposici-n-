@@ -3,6 +3,10 @@
 
 **2. MARCO TEÓRICO**
 
+![Superposicion](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/Superposicion.jpg)
+
+![Pasos_Super](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/Pasos_Super.jpg)
+
 **3.DIAGRAMAS**
 
 ![CIRCUITO4](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/circuitoL4.png)
@@ -42,6 +46,8 @@ ERROR
 **9.CONCLUSIONES**
 
 **10.BIBLIOGRAFIA**
+
+-Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN.
 
 **11.ANEXOS**
 
