@@ -1,6 +1,14 @@
 # Teorema-de-superposición 
 **1.OBJETIVOS**
 
+-Desarrolar experticia en el análisis de circuitos por medio del teorema de superposición. 
+
+-Evaluar los circuitos mediante el teorema de superposición y corroborar los resultados con una simulación del mismo. 
+
+-Descubrir la importancia y eficacia del uso del teorema de superposición en el estudio de circuitos eléctricos. 
+
+-Generar conocimiento, práctica y autoeducación en los estudiantes para que se puedan desempeñar con excelencia. 
+
 **2. MARCO TEÓRICO**
 
 ![Superposicion](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/Superposicion.jpg)
