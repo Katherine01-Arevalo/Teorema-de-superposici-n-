@@ -66,10 +66,17 @@ Medidas del voltaje VA y la corriente  IX  conectada a la fuente de  voltaje 20 
 
 **8. Prerrequisitos**
 
--Al instante de generar la simulación tener en cuenta la unidad de media para el uso del amperímetro y el voltaje a utilizar .
--Verificar que el circuito se encuentre bien conectado caso contrario se generara datos erróneos.
+-Al instante de generar la simulación tener en cuenta la unidad de media para el uso del amperímetro y el voltaje a utilizar.
+
+-Verificar que el circuito se encuentre bien conectado, caso contrario se generaran datos erróneos.
 
 **9.CONCLUSIONES**
+
+-Al analizar un circuito los resutados no deben variar, sino deben ser los mismos o muy similares, sin importar el método que haya sido utilizado para el estudio. 
+
+-Al aplicar el método de superposición se pueden generar mallas redundantes, sin embargo la intensidad de corriente que le pertenece es muy importante para el estudio.
+
+-Se debe ser cauteloso al momento de realizar la suma algebraica de los valores obtenidos mediante el método de superposición ya que el sentido de las fuentes puede que se sume o reste, el un voltaje o corriente de lo obtenido en los otros circuitos de superposición. 
 
 **10.BIBLIOGRAFIA**
 
