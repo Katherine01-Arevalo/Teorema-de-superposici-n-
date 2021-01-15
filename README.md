@@ -45,6 +45,9 @@ Medidas del voltaje VA y la corriente  IX  conectada a la fuente de  voltaje 20 
 
 ERROR
 
+![Error_lab](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/Error_lab.jpg)
+
+
 **7.Manual de Usuario**
 
 **8. Prerrequisitos**
