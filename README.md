@@ -25,6 +25,22 @@
 
 **5.EXPLICACIÓN**
 
+TEÓRICA
+
+Primeramente se hizo el estudio del comportamiento del circuito con las 2 baterias conectadas. Haciendo el análisis por mallas y usando la ley de Ohm y la de las corrientes de Kirchhoff se obtuvo el voltaje en la resistencia 4 (820 Ohm) y la intensidad x. 
+
+Luego utilizando el teorema de superposición al circuito propuesto se le suprimió la bateria 2 de 12 V. Debido a que la resistencia interna de la bateria es cero en su lugar se colocó un cortocircuito o cable. De esta manera se obitne un circuito con una sola bateria de 20 V. y 4 resistencias. Se hace un estudio por mallas, en este caso son 3 y determinamos la intensidad de corriente en cada malla. Haciendo uso de la ley de corrientes de Kirchhoff y la ley de Ohm se obtiene el voltaje en la resistencia 4 (820 Ohm) y la intensidad x de la primera malla. 
+
+Ahora se suprime la bateria 1 de 20 V. Y se efectúa el mismo proceso. Nuevamente se obtiene otros resultados del voltaje en la resistencia 4 y la corriente Ix. 
+
+Para concluir con el teorema de superposición se suman las corrientes encontradas en ambos procesos, porque se encuentran en el mismo sentido, y se obtiene la corriente total en Ix. Mientras que para obtener el voltaje total se restan los voltajes determinados en los procesos anteriores. 
+
+Para finalizar se comparan los valores de la corriente Ix y el voltaje en la resistencia 4 mediante el análisis de mallas con los obtenidos con el método de superposición. Determinando el error porcentual se puede ver que los resultados que arrojan ambos procedimientos de análisis de circuitos son muy similiares sino iguales. 
+
+PRÁCTICA
+
+Haciendo uso del Simulador Proteus se diseña y simula el comportamiento del circuito en los tres escenarios diferentes que se esta estudiando. Cabe recalcar que, para el análisis por el método de superposición sera necesario generar dos circuitos, uno que funcione con cada bateria. Y también hay que recordar sumar los valores de las corrientes y restar los valores de los voltajes para lograr el voltaje total en R4 y la corriente Ix. De ifual manera se comparan los valores obtenidos. 
+
 
 **6.APORTACIONES**
 
@@ -42,8 +58,6 @@ Medidas del voltaje VA y la corriente  IX  conectada a la fuente de  voltaje 20 
 
 
 ![tabla](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/TABLA.png)
-
-ERROR
 
 ![Error_lab](https://github.com/Katherine01-Arevalo/Teorema-de-superposicion/blob/main/img/Error_lab.jpg)
 
